@@ -1,0 +1,28 @@
+name: Scout Textiles
+favicon: null
+layout_spectrum: 0.3443467621691525
+typography_spectrum: 0.26905969670042396
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5970084599684924
+  lightness: 0.05824458645656705
+  saturation: 0.4371145803015679
+  rhythmicContrast: 0.20431629568338394
+purpose: []
