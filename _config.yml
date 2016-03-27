@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.4371145803015679
   brandStrength: 0.5970084599684924
-  lightness: 0.05824458645656705
+  rhythmicContrast: 0.2043162956833839
   brandColors:
     - '#DFD0CE'
     - '#C6B4A3'
     - '#382F39'
     - '#927F65'
     - '#6D536E'
-  rhythmicContrast: 0.2043162956833839
+  lightness: 0.05824458645656705
 cta:
   bucket: null
   version: null
@@ -32,10 +32,10 @@ analytics:
   google: null
   facebook: null
 favicon: null
-name: Scout Textiles
+name: scout textiles
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.2741936
+typography_spectrum: 0.7132617
 layout_spectrum: 1
