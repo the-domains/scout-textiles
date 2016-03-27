@@ -1,29 +1,41 @@
-name: Scout Textiles
-favicon: null
-layout_spectrum: 0.3443467621691525
-typography_spectrum: 0.26905969670042396
 title: handmade wares for the home
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.4371145803015679
+  brandStrength: 0.5970084599684924
+  lightness: 0.05824458645656705
+  brandColors:
+    - '#DFD0CE'
+    - '#C6B4A3'
+    - '#382F39'
+    - '#927F65'
+    - '#6D536E'
+  rhythmicContrast: 0.2043162956833839
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Scout Textiles
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.5970084599684924
-  lightness: 0.05824458645656705
-  saturation: 0.4371145803015679
-  rhythmicContrast: 0.20431629568338394
-purpose: []
+typography_spectrum: 0.2741936
+layout_spectrum: 1
